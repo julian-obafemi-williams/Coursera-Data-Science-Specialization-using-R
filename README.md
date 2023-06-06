@@ -1,1 +1,1 @@
-This repository will host files for Coursera's Data Science course using R
+This repository will host files for Coursera's "Data Science: Foundations using R Specialization"
